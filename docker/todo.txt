@@ -1,0 +1,1 @@
+i want this to create a web page that can actively grab new data created by the pyscript and display it in real time on the web page, but with docker bind mounts not volumes. 

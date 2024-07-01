@@ -1,0 +1,9 @@
+#rename to settings.yaml, which wont be tracked by git but will allow you to keep your personal stuff personal
+knownSensors:
+  - ip: "192.168.1.100"
+  - ip: "192.168.1.101"
+humidity: true
+
+#todo:
+##add subnets to find these automatically
+##add a thing in the yaml to search specific subnets
